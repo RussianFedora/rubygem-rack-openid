@@ -18,7 +18,7 @@
 Summary: Provides a more HTTPish API around the ruby-openid library.
 Name: rubygem-%{gem_name}
 Version: 1.3.1
-Release: 2%{?dist}
+Release: 3%{?dist}
 Group: Development/Languages
 License: MIT
 URL: https://github.com/josh/rack-openid
